@@ -1,6 +1,6 @@
 # Project Deployed
-Project Deployed Only The Home Part on Git-Hub Pages use below link -
-https://Rishi22-Coding.github.io/TextUtility-Project/#
+Project Deployed Only The Home Part on Git-Hub Pages use below link
+<p>https://Rishi22-Coding.github.io/TextUtility-Project/#</p>
 
 # Getting Started with Create React App
 
